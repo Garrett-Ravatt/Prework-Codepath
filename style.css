@@ -1,0 +1,69 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: slategrey;
+  color: white; 
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif;
+}
+
+button {
+  padding: 7px;
+  border: none;
+  border-radius: 14px;
+}
+
+#gameButtonArea {
+  max-width:430px;
+  margin:2px;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+.hidden {
+  display:none;
+}
+
+#button1 {
+  background: lightgreen;
+}
+#button2 {
+  background: pink;
+}
+#button3 {
+  background: lightblue;
+}
+#button4 {
+  background: lightyellow;
+}
+#button5 {
+  background: white;
+}
+#button6 {
+  background: lightgray;
+}
+
+#button1:active, #button1.lit {
+  background: green;
+}
+#button2:active, #button2.lit {
+  background: red;
+}
+#button3:active, #button3.lit {
+  background: blue;
+}
+#button4:active, #button4.lit{
+  background: yellow;
+}
+#button5:active, #button5.lit{
+  background: grey;
+}
+#button6:active, #button6.lit{
+  background: black;
+}
