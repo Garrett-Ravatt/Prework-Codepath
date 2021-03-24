@@ -51,8 +51,7 @@ mozilla.org
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
 
-I didn't give myself as much time as I probably needed to finish the optional requirements. The instructions were straightforward as I have some experience in web development, but I don't know how to add and use
-assets yet. I also had a little difficulty speeding up the clues as the game went on, but I fixed it by making a function for myself and making console.log entries.
+I didn't give myself as much time as I probably needed to finish the optional requirements. The instructions were straightforward as I have some experience in web development, but I don't know how to add and use assets yet. I also had a little difficulty speeding up the clues as the game went on, but I fixed it by making a function for myself and making console.log entries. Lastly the video walkthrough was confusing, especially because the playback dropped so many frames it was hard to tell what was happening
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
